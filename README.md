@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maxhoward779 a recruitment consultant based in Bristol
+- 👋 Hi, I’m @maxhoward779 a recruitment consultant for Quinton Davies based in Bristol
 - 👀 I’m interested in matching C# and .NET Developers to the best Software Developer jobs in the South-West of England!
 - 🌱 I’m currently specialsing in C#/.NET but also have many Full-stack opportunities 
 - 📫 How to reach me: email me on max.howard@quintondavies.com or call me on 0117 3636065
